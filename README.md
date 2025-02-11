@@ -1,6 +1,6 @@
 # Minigames-2020
 
-A collection of HTML, CSS, and Javascript minigames made in my grade 10th year in highschool.
+A collection of HTML, CSS, and Javascript minigames made in my grade 10th year at Mount Douglas Secondary School (2020).
 
 ## Hoshi
 A single-player 2D RPG top-down style story game where you help collect stars to fulfil a child's wish.
